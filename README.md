@@ -80,7 +80,7 @@ Modern distributed systems often face unpredictable traffic. This project aims t
 
 ## 📈 Sample Output
 
-
+![Result](result/VIDEO-2023-04-05-22-48-25.mp4)
 
 ### ✅ Model Accuracy Graph
 ![Accuracy](result/accuracy_graph.png)
