@@ -98,4 +98,4 @@ This project is licensed under the MIT License.
 
 ## ⭐ Let's Connect!
 If you found this useful or interesting, don't forget to ⭐ the repo!  
-Feel free to connect with me on [LinkedIn](https://linkedin.com/) and check out my other projects.
+Feel free to connect with me and check out my other projects.
