@@ -38,6 +38,8 @@ Modern distributed systems often face unpredictable traffic. This project aims t
 ---
 
 ## 🗂️ Project Structure
+
+```
 📁 traffic-prediction-service-migration-ml-dl
 ├── README.md
 ├── LICENSE
@@ -49,16 +51,51 @@ Modern distributed systems often face unpredictable traffic. This project aims t
 ├── models/
 │   └── model.h5
 └── results/
-└── accuracy_plot.png
+    ├── accuracy_graph.png
+    ├── predicted_vs_actual.png
+    └── latency_improvement.png
+```
 
 ---
 
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-   ``bash
+   ```bash
    git clone https://github.com/<your-username>/traffic-prediction-service-migration-ml-dl.git
    cd traffic-prediction-service-migration-ml-dl
-2.	Install dependencies: pip install -r requirements.txt
-3.	Run the project: python source_code/source_code_for_project_1.py
-   
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the project**
+   ```bash
+   python source_code/source_code_for_project_1.py
+   ```
+
+---
+
+## 📈 Sample Output
+
+### ✅ Model Accuracy Graph
+![Accuracy](results/accuracy_graph.png)
+
+### 📊 Predicted vs Actual Traffic
+![Predicted vs Actual](results/predicted_vs_actual.png)
+
+### ⚡ Latency Improvement (Before vs After Migration)
+![Latency Improvement](results/latency_improvement.png)
+
+---
+
+## 📜 License
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Let's Connect!
+If you found this useful or interesting, don't forget to ⭐ the repo!  
+Feel free to connect with me on [LinkedIn](https://linkedin.com/) and check out my other projects.
