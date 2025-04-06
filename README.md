@@ -80,14 +80,16 @@ Modern distributed systems often face unpredictable traffic. This project aims t
 
 ## 📈 Sample Output
 
+
+
 ### ✅ Model Accuracy Graph
-![Accuracy](results/accuracy_graph.png)
+![Accuracy](result/accuracy_graph.png)
 
 ### 📊 Predicted vs Actual Traffic
-![Predicted vs Actual](results/predicted_vs_actual.png)
+![Predicted vs Actual](result/predicted_vs_actual.png)
 
 ### ⚡ Latency Improvement (Before vs After Migration)
-![Latency Improvement](results/latency_improvement.png)
+![Latency Improvement](result/latency_improvement.png)
 
 ---
 
