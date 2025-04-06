@@ -6,7 +6,7 @@ This system predicts **network traffic** and **automatically migrates services**
 ---
 
 ## 👨‍💻 Created by  
-**Akashdeep** – Final Year CSE Student @ Chandigarh University  
+**Akash Deep** – 3rd Year CSE Student @ Chandigarh University  
 🏆 AI Hackathon Winner | Passionate about Deep Learning & Scalable Systems  
 
 ---
